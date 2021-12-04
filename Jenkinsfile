@@ -9,7 +9,7 @@ pipeline {
             steps {
                 echo 'Running build automation'
                 sh './gradlew build --no-daemon'
-                archiveArtifacts artifacts: 'dist/bmi-app.zip'
+                archiveArtifacts artifacts: 'dist/bmiapp.zip'
             }
         }
         stage('Build Docker Image') {
