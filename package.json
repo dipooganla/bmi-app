@@ -1,0 +1,20 @@
+{
+    "name": "calculator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "calculator.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node calculator.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dipooganla/calculator_testapp.git"
+    },
+    "author": "dipo",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/dipooganla/calculator_testapp/issues"
+    },
+    "homepage": "https://github.com/dipooganla/calculator_testapp#readme"
+}
