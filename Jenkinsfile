@@ -5,7 +5,7 @@ pipeline {
             steps {
                 echo 'Running build automation'
                 sh './gradlew build'
-                archiveArtifacts artifacts: 'dist/calculator_app.zip'
+                archiveArtifacts artifacts: 'dist/bmi-app.zip'
                 }
             }
         }
