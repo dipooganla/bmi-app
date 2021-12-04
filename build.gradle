@@ -19,7 +19,7 @@ task zip(type: Zip) {
 		include "node_modules/**"
 	}
 	destinationDir(file("dist"))
-	baseName "calculator_testapp"
+	baseName "bmi-app"
 }
 
 //declare task dependencies
