@@ -1,5 +1,5 @@
 {
-    "name": "calculator",
+    "name": "bmi-app",
     "version": "1.0.0",
     "description": "",
     "main": "calculator.js",
@@ -9,12 +9,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/dipooganla/calculator_testapp.git"
+        "url": "git+https://github.com/dipooganla/bmi-app.git"
     },
     "author": "dipo",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/dipooganla/calculator_testapp/issues"
+        "url": "https://github.com/dipooganla/bmi-app/issues"
     },
-    "homepage": "https://github.com/dipooganla/calculator_testapp#readme"
+    "homepage": "https://github.com/dipooganla/bmi-app#readme"
 }
